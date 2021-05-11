@@ -8,4 +8,4 @@
 
 ![disp2](deformada.png) 
 
-Al graficar los esfuerzos tuvimos problemas con Gmsh, creemos que el codigo esta bien pero que al recuperar sigma y desplazamientos y cargarlo a Gmsh se produce el problema. Los resultados que obtenemos son:
+Al graficar los esfuerzos tuvimos problemas con Gmsh. Creemos que el codigo esta bien pero que al recuperar sigma y desplazamientos y cargarlo a Gmsh es donde se produce el problema. Los resultados que obtenemos son:

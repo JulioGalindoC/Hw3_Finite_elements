@@ -21,7 +21,6 @@ Al graficar los esfuerzos tuvimos problemas con Gmsh. Creemos que el codigo esta
 ![M1_Pgraph](Homework3_Part2/M1_Pgraph.png)
 ![M1_desp](Homework3_Part2/M1_desp.png)
 ![M1_sx](Homework3_Part2/M1_sx.png)
-![M1_Pgraph](Homework3_Part2/M1_Pgraph.png)
 
 ## Medium Mesh:
 

@@ -25,5 +25,5 @@ Al graficar los esfuerzos tuvimos problemas con Gmsh. Creemos que el codigo esta
 ![M2_sx](Homework3_Part2/M2_sx.png)
 ## Fine Mesh
 ![M3](Homework3_Part2/M3.png)
-![M3_desp](Homework3_Part2/M2_desp.png)
-![M3_sx](Homework3_Part2/M2_sx.png)
+![M3_desp](Homework3_Part2/M3_desp.png)
+![M3_sx](Homework3_Part2/M3_sx.png)

@@ -15,25 +15,37 @@ Al graficar los esfuerzos tuvimos problemas con Gmsh. Creemos que el codigo esta
 ## Geometry
 ![Placa_geo](Placa_geo.png) 
 
-## Coaerse Mesh:
+## Coaerse Mesh
 
+### Mesh:
 ![M1](Homework3_Part2/M1.png)
+### Deformation plot with python: 
 ![M1_Pgraph](Homework3_Part2/M1_Pgraph.png)
+### Displacements in Gmsh
 ![M1_desp](Homework3_Part2/M1_desp.png)
+### Stress in Gmsh
 ![M1_sx](Homework3_Part2/M1_sx.png)
 
 ## Medium Mesh:
 
+### Mesh:
 ![M2](Homework3_Part2/M2.png)
+### Deformation plot with python: 
 ![M2_Pgraph](Homework3_Part2/M2_Pgraph.png)
+### Displacements in Gmsh
 ![M2_desp](Homework3_Part2/M2_desp.png)
+### Stress in Gmsh
 ![M2_sx](Homework3_Part2/M2_sx.png)
 
 ## Fine Mesh:
 
+### Mesh:
 ![M3](Homework3_Part2/M3.png)
+### Deformation plot with python:  
 ![M3_Pgraph](Homework3_Part2/M3_Pgraph.png)
+### Displacements in Gmsh
 ![M3_desp](Homework3_Part2/M3_desp.png)
+### Stress in Gmsh
 ![M3_sx](Homework3_Part2/M3_sx.png)
 
 

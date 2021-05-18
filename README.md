@@ -33,11 +33,13 @@ Al graficar los esfuerzos tuvimos problemas con Gmsh. Creemos que el codigo esta
 ![Nodal_Stress_Averaging](Homework3_Part2/Nodal_Stress_Averaging.png)
 
 
-The fist step to accomplish this implementation was to generate a list containing all the natural nodes. Once we had this list we calculate the number of elements, if there are n nodes, there will be n-1 elements between this nodes. 
+The first step to accomplish this implementation was to generate a list, containing all the natural nodes.
 
-As we can see from the geometry, it is allways true that the right botom node is node number 7 and the right top node is allways number 8. Knowing this, we set the load of this nodes as F/(2·Number of elements).
+Once we had this list, we calculate the number of elements in the natural border. If there are n nodes in the border, there will be n-1 elements in the same border. 
 
-Finally the loads of all other natural boudary nodes are set with a for
+As we can see from the geometry, it is always  true that the right bottom node is node number 7, and the right top node is always number 8. Knowing this, we set the load of this nodes as F/(2·Number of elements).
+
+Finally, the loads of all other natural boundary nodes are set with a for:
 for n in BordeNatural_nodes:
     if n > 7 :
         f[2*n] = F/Number of elements

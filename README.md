@@ -18,6 +18,6 @@ Al graficar los esfuerzos tuvimos problemas con Gmsh. Creemos que el codigo esta
 ## Coaerse Mesh
 ![M1](Homework3_Part2/M1.png)
 ## Medium Mesh
-![M2]Hw3_Finite_elements/Homework3_Part2/(M2.png)
+![M2](Homework3_Part2/M2.png)
 ## Fine Mesh
-![M3]Hw3_Finite_elements/Homework3_Part2/(M3.png)
+![M3](Homework3_Part2/M3.png)

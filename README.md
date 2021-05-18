@@ -52,3 +52,9 @@ Finally, the loads of all other natural boundary nodes are set with a for:
 for n in BordeNatural_nodes:
     if n > 7 :
         f[2*n] = F/Number of elements
+
+### Before Nodal Stress Averaging:
+![antes](Homework3_Part2/antes.png)
+
+### After Nodal Stress Averaging:
+![despues](Homework3_Part2/despues.png)

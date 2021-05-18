@@ -15,15 +15,19 @@ Al graficar los esfuerzos tuvimos problemas con Gmsh. Creemos que el codigo esta
 ## Geometry
 ![Placa_geo](Placa_geo.png) 
 
-## Coaerse Mesh
+## Coaerse Mesh:
 ![M1](Homework3_Part2/M1.png)
 ![M1_desp](Homework3_Part2/M1_desp.png)
 ![M1_sx](Homework3_Part2/M1_sx.png)
-## Medium Mesh
+## Medium Mesh:
 ![M2](Homework3_Part2/M2.png)
 ![M2_desp](Homework3_Part2/M2_desp.png)
 ![M2_sx](Homework3_Part2/M2_sx.png)
-## Fine Mesh
+## Fine Mesh:
 ![M3](Homework3_Part2/M3.png)
 ![M3_desp](Homework3_Part2/M3_desp.png)
 ![M3_sx](Homework3_Part2/M3_sx.png)
+
+
+## Nodal Stress Averaging:
+![Nodal_Stress_Averaging](Homework3_Part2/Nodal_Stress_Averaging.png)

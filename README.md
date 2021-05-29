@@ -70,3 +70,36 @@ for n in BordeNatural_nodes:
 
 ### After Nodal Stress Averaging:
 ![despues](Homework3_Part2/despues.png)
+
+
+# Hw3 Finite Elements Part 3
+## Geometry
+![Placa_geo](Placa_geo.png)
+
+## Coaerse Mesh
+
+### Mesh:
+
+ 
+
+### Displacements in Gmsh
+
+### Stress in Gmsh
+
+
+## Medium Mesh:
+
+### Mesh:
+
+
+### Displacements in Gmsh
+
+### Stress in Gmsh
+
+
+## Fine Mesh:
+
+### Mesh:
+### Deformation plot with python:  
+### Displacements in Gmsh
+### Stress in Gmsh

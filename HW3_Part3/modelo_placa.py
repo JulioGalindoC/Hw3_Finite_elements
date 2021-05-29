@@ -205,7 +205,7 @@ R = Kcf @ u[free_DOFs] + Kcc @ u[constrained_DOFs] - fc
 #print(f"R = {R}")
 
 
-factor = 1e2
+factor = 1e5
 uv = u.reshape([-1,2])
 
 #plt.plot(xy[:,0] + factor*uv[:,0], xy[:,1] + factor*uv[:,1],".")
@@ -221,7 +221,7 @@ for e in Quadrangles:
     np = conec[e, 7]
     nq = conec[e, 8]
 
-    xy_e = xy[[ni, nj, nk, nl, nn, nm, no, np, nq, ni], :] + factor*uv[[ni, nj, nk, nl, nn, nm, no, np, nq, ni], :]
+    xy_e = xy[[ni, nj, nk, nl, ni], :] + factor*uv[[ni, nj, nk, nl, ni], :]
     plt.plot(xy_e[:, 0], xy_e[:, 1], 'k')
 
 plt.axis('equal')

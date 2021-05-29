@@ -91,9 +91,9 @@ for n in BordeNatural_nodes:
 ![Medium_M](HW3_Part3/Medium_Mesh/Medium_M.png)
 
 ### Displacements in Gmsh
-
+![Medium_D](HW3_Part3/Medium_Mesh/Medium_D.png)
 ### Stress in Gmsh
-
+![Medium_S](HW3_Part3/Medium_Mesh/Medium_S.png)
 
 ## Fine Mesh:
 

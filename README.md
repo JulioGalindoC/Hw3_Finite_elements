@@ -98,6 +98,6 @@ for n in BordeNatural_nodes:
 ## Fine Mesh:
 
 ### Mesh:
-![Fine_M](HW3_Part3/Fine_Mesh/Fine_M.png)
+![Fine_M](HW3_Part3/Fine_Mesh/Fine_Mesh.png)
 
 Advantages of using Quad9 elements is that we can describe the curved sides, while with Quad 4 elements it is not possible. Also, Quad9 elements behave with less stiffness than Quad4 elements, so it is very useful for Finite elements method.

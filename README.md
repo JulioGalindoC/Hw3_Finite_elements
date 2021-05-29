@@ -84,10 +84,11 @@ for n in BordeNatural_nodes:
 ![Coarse_D](HW3_Part3/Coarse_Mesh/Coarse_D.png)
 ### Stress in Gmsh
 ![Coarse_S](HW3_Part3/Coarse_Mesh/Coarse_S.png)
+
 ## Medium Mesh:
 
 ### Mesh:
-
+![Medium_M](HW3_Part3/Medium_Mesh/Medium_M.png)
 
 ### Displacements in Gmsh
 
